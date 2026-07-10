@@ -1,5 +1,5 @@
 
-# VidTube React YouTube Clone
+# VidTube React YouTube 
 
 A responsive YouTube-inspired web application built with React and Tailwind CSS.
 
